@@ -17,3 +17,7 @@
    3. Matplotlib : https://www.w3schools.com/python/matplotlib_intro.asp
     
          Github Link : https://github.com/hamidhosen42/Matplotlib
+
+# Basic Machine-Learning Book :
+
+   1. হাতেকলমে মেশিন লার্নিং -পরিচিত , প্রজেক্ট টাইটানিক আর এবং পাইথনসহ : https://rakibul-hassan.gitbook.io/mlbook-titanic/
