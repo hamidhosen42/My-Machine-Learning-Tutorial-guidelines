@@ -1,5 +1,10 @@
 # Machine-Learning My Tutorial
 
-# Machine Learning Algorithms By Nafis Nehal Book
+# Basic Algorithm:
 
-2.Study Mart = https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f
+   Machine Learning Algorithms By Nafis Nehal Book
+
+# Basic Machine-Learning:
+
+   1. NumPy : https://www.w3schools.com/python/numpy/default.asp
+            : https://github.com/hamidhosen42/NumPy
