@@ -21,3 +21,6 @@
 # Basic Machine-Learning Book :
 
    1. হাতেকলমে মেশিন লার্নিং -পরিচিত , প্রজেক্ট টাইটানিক আর এবং পাইথনসহ : https://rakibul-hassan.gitbook.io/mlbook-titanic/
+   2. GitHup Full Book link : https://github.com/raqueeb/mlbook-titanic
+   3. Code Link : https://github.com/raqueeb/mltraining
+   4. My Code Link :https://github.com/hamidhosen42/Machine-Learning-Titanic-Project-with-R
