@@ -25,6 +25,8 @@
          2. Code Link : https://github.com/raqueeb/mltraining
          3. My Code Link : https://github.com/hamidhosen42/Machine-Learning-Titanic-Project-with-R
          
-   2.শূন্য থেকে পাইথন মেশিন লার্নিং : হাতেকলমে সাইকিট-লার্ন : https://raqueeb.gitbook.io/scikit-learn/dedication
+   2. শূন্য থেকে পাইথন মেশিন লার্নিং : হাতেকলমে সাইকিট-লার্ন : https://raqueeb.gitbook.io/scikit-learn/dedication
          1. GitHp Full Book & Code link : https://github.com/raqueeb/ml-python
+         
+         
  
