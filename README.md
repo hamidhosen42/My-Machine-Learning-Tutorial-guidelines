@@ -26,4 +26,4 @@
    4. [My Code Link] (https://github.com/hamidhosen42/Machine-Learning-Titanic-Project-with-R)
    
    
-[My Code Link] (https://github.com/hamidhosen42/Machine-Learning-Titanic-Project-with-R)
+[MyCodeLink](https://github.com/hamidhosen42/Machine-Learning-Titanic-Project-with-R)
