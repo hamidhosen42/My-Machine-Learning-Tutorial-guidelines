@@ -49,4 +49,17 @@
    4. [4-Introduction to Machine Learning with Python A Guide for Data Scientists by by Andreas C. Müller, Sarah Guido](http://noracook.io/Books/Python/introductiontomachinelearningwithpython.pdf)- চ্যাপ্টার ২, সুপারভাইজ্ড লার্নিং, চ্যাপ্টার ৫, মডেল ইভালুয়েশন, গ্রিড সার্চ উইথ ক্রস ভ্যালিডেশন, মেট্রিকস এন্ড স্কোরিং।
          1. [GitHub Full Book Example](https://github.com/amueller/introduction_to_ml_with_python)
          2. [GitHub Full Book Example](https://github.com/millengustavo/ml-books)
-         3. [GitHub Full Book Example](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb#scrollTo=ZvTUFl9P8us-)
+         3. [GitHub Full Book Example](https://sci2lab.github.io/mehdi/teaching/cs4520/)
+
+   5. [5- Python Machine Learning Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow by Sebastian Raschka, Vahid Mirjalili.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7068985/5-.Python.Machine.Learning.Machine.Learning.and.Deep.Learning.with.Python.scikit-learn.and.TensorFlow.by.Sebastian.Raschka.Vahid.Mirjalili.pdf)- চ্যাপ্টার ২, ট্রেনিং সিম্পল মেশিন লার্নিং এলগরিদম ফর ক্লাসিফিকেশন, চ্যাপ্টার ৩, এ ট্যুর অফ মেশিন লার্নিং ক্লাসিফায়ার ইউজিং সাইকিট লার্ন, চ্যাপ্টার ৩, বিল্ডিং গুড ট্রেনিং সেটস - ডেটা প্রি-প্রসেসিং 
+         1. [GitHub Full Book Example](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
+         2. [GitHub Full Book Example](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+   
+   6. [6.1-Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron.pdf(https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf)
+     
+      [6.2-Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7069020/6.2-Hands-On.Machine.Learning.with.Scikit-Learn.and.TensorFlow.Concepts.Tools.and.Techniques.to.Build.Intelligent.Systems.by.Aurelien.Geron.pdf)- চ্যাপ্টার ২, এন্ড টু মেশিন লার্নিং প্রজেক্ট, ফাইন টিউন ইয়োর মডেল, চ্যাপ্টার ৩, ক্লাসিফিকেশন, পারফরমেন্স মেজার, চ্যাপ্টার ৪, ট্রেনিং মডেলস, চ্যাপ্টার ৭, এনসেম্বল লার্নিং এন্ড র‌্যান্ডম  ফরেস্টস। 
+         1. [GitHub Full Book Example](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow)
+         2. [GitHub Full Book Example](https://github.com/ageron/handson-ml2)
+         3. [GitHub Full Book Example](https://github.com/ageron/handson-ml)
+         4. [GitHub Full Book Example](https://github.com/rlepsch/HANDS-ON-MACHINE-LEARNING-WITH-SCIKIT-LEARN-AND-TENSORFLOW)
+         5. [GitHub Full Book Example](https://github.com/amitanalyste/aurelienGeron)
