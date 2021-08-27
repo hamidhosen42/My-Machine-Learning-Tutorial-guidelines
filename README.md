@@ -7,9 +7,7 @@
 # Basic Machine-Learning Tools:
 
    1. [NumPy](https://www.w3schools.com/python/numpy/default.asp)
-   
-         [Github Link](https://github.com/hamidhosen42/NumPy)
-
+         1. [Github Link](https://github.com/hamidhosen42/NumPy)
    2. [Pandas](https://www.w3schools.com/python/pandas/default.asp)
    
          [Github Link](https://github.com/hamidhosen42/Pandas)
