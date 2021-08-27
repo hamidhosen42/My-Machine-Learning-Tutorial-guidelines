@@ -37,8 +37,8 @@
          1. [GitHp Full Book & Code](https://github.com/raqueeb/ml-python)
          
 # Most Importent Machine Learning Book and Github link:
-   1. [1-Learning scikit-learn Machine Learning in Python, by Raúl Garreta, Guillermo Moncecchi.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7068876/1-Learning.scikit-learn.Machine.Learning.in.Python.by.Raul.Garreta.Guillermo.Moncecchi.pdf)
- - চ্যাপ্টার ২, টাইটানিক হাইপোথেসিস উইথ ডিসিশন ট্রিজ,  প্রেডিকটিং হাউজ প্রাইসেস উইথ রিগ্রেশন, চ্যাপ্টার ৪, ফিচার এক্সট্রাকশন, ফিচার সিলেকশন, গ্রিড সার্চ ইত্যাদি। 
+
+   1. [1-Learning scikit-learn Machine Learning in Python, by Raúl Garreta, Guillermo Moncecchi.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7068876/1-Learning.scikit-learn.Machine.Learning.in.Python.by.Raul.Garreta.Guillermo.Moncecchi.pdf) - চ্যাপ্টার ২, টাইটানিক হাইপোথেসিস উইথ ডিসিশন ট্রিজ,  প্রেডিকটিং হাউজ প্রাইসেস উইথ রিগ্রেশন, চ্যাপ্টার ৪, ফিচার এক্সট্রাকশন, ফিচার সিলেকশন, গ্রিড সার্চ ইত্যাদি। 
          1. [GitHup Full Book](https://github.com/raqueeb/mlbook-titanic)
          2. [1-Learning scikit-learn Machine Learning in Python, by Raúl Garreta, Guillermo Moncecchi.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7068863/1-Learning.scikit-learn.Machine.Learning.in.Python.by.Raul.Garreta.Guillermo.Moncecchi.pdf)
 
