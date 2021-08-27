@@ -55,7 +55,7 @@
          1. [GitHub Full Book Example](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
          2. [GitHub Full Book Example](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
    
-   6. [6.1-Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron.pdf(https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf)
+   6. [6.1-Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron.pdf](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf)
      
       [6.2-Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7069020/6.2-Hands-On.Machine.Learning.with.Scikit-Learn.and.TensorFlow.Concepts.Tools.and.Techniques.to.Build.Intelligent.Systems.by.Aurelien.Geron.pdf)- চ্যাপ্টার ২, এন্ড টু মেশিন লার্নিং প্রজেক্ট, ফাইন টিউন ইয়োর মডেল, চ্যাপ্টার ৩, ক্লাসিফিকেশন, পারফরমেন্স মেজার, চ্যাপ্টার ৪, ট্রেনিং মডেলস, চ্যাপ্টার ৭, এনসেম্বল লার্নিং এন্ড র‌্যান্ডম  ফরেস্টস। 
          1. [GitHub Full Book Example](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow)
@@ -63,3 +63,16 @@
          3. [GitHub Full Book Example](https://github.com/ageron/handson-ml)
          4. [GitHub Full Book Example](https://github.com/rlepsch/HANDS-ON-MACHINE-LEARNING-WITH-SCIKIT-LEARN-AND-TENSORFLOW)
          5. [GitHub Full Book Example](https://github.com/amitanalyste/aurelienGeron)
+
+   7. [7.1-Python for Data Analysis Data Wrangling with Pandas, NumPy, and IPython by Wes McKinney.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7069049/7.1-Python.for.Data.Analysis.Data.Wrangling.with.Pandas.NumPy.and.IPython.by.Wes.McKinney.pdf)
+   
+      [7.2-Python for Data Analysis Data Wrangling with Pandas, NumPy, and IPython by Wes McKinney.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7069050/7.2-Python.for.Data.Analysis.Data.Wrangling.with.Pandas.NumPy.and.IPython.by.Wes.McKinney.pdf)- চ্যাপ্টার ৩, বিল্টইন ডেটা স্ট্রাকচার, ফাংশন। এটা একটা অসাধারণ বই, ডেটা অ্যানালাইসিসের জন্য। 
+         1. [GitHub Full Book Example](https://github.com/wesm/pydata-book)
+         2. [GitHub Full Book Example](https://github.com/mthomp89/Python-for-Data-Analysis-2nd-Edition)
+         3. [GitHub Full Book Example](https://github.com/AdityaGogoi/Notes-on-Python-for-Data-Analysis-2nd-Edition)
+         4. [GitHub Full Book Example](https://github.com/wangruinju/python-for-data-analysis)
+         5. [GitHub Full Book Example](https://github.com/mahartariq/python-for-data-analysis-book)
+
+5. [5- Python Machine Learning Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow by Sebastian Raschka, Vahid Mirjalili.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7068985/5-.Python.Machine.Learning.Machine.Learning.and.Deep.Learning.with.Python.scikit-learn.and.TensorFlow.by.Sebastian.Raschka.Vahid.Mirjalili.pdf)- চ্যাপ্টার ২, ট্রেনিং সিম্পল মেশিন লার্নিং এলগরিদম ফর ক্লাসিফিকেশন, চ্যাপ্টার ৩, এ ট্যুর অফ মেশিন লার্নিং ক্লাসিফায়ার ইউজিং সাইকিট লার্ন, চ্যাপ্টার ৩, বিল্ডিং গুড ট্রেনিং সেটস - ডেটা প্রি-প্রসেসিং 
+         1. [GitHub Full Book Example](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
+         2. [GitHub Full Book Example](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
