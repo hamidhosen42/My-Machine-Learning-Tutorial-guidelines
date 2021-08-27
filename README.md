@@ -40,4 +40,5 @@
 
    1. [হাতেকলমে মেশিন লার্নিং -পরিচিত , প্রজেক্ট টাইটানিক আর এবং পাইথনসহ](https://rakibul-hassan.gitbook.io/mlbook-titanic/)
          1. [GitHup Full Book](https://github.com/raqueeb/mlbook-titanic)
-         2. 
+         2. [1-Learning scikit-learn Machine Learning in Python, by Raúl Garreta, Guillermo Moncecchi.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7068863/1-Learning.scikit-learn.Machine.Learning.in.Python.by.Raul.Garreta.Guillermo.Moncecchi.pdf)
+
