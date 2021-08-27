@@ -45,3 +45,8 @@
          1. [GitHub Full Book Example](https://github.com/jakevdp/PythonDataScienceHandbook)
          2. [GitHub Full Book Example](https://jakevdp.github.io/PythonDataScienceHandbook/)
          3. [GitHub Full Book Example](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb#scrollTo=ZvTUFl9P8us-)
+
+   4. [http://noracook.io/Books/Python/introductiontomachinelearningwithpython.pdf] - চ্যাপ্টার ২, সুপারভাইজ্ড লার্নিং, চ্যাপ্টার ৫, মডেল ইভালুয়েশন, গ্রিড সার্চ উইথ ক্রস ভ্যালিডেশন, মেট্রিকস এন্ড স্কোরিং।
+         1. [GitHub Full Book Example](https://github.com/amueller/introduction_to_ml_with_python)
+         2. [GitHub Full Book Example](https://github.com/millengustavo/ml-books)
+         3. [GitHub Full Book Example](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb#scrollTo=ZvTUFl9P8us-)
