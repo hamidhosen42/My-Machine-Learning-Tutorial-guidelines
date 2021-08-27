@@ -36,5 +36,8 @@
    2. [শূন্য থেকে পাইথন মেশিন লার্নিং : হাতেকলমে সাইকিট-লার্ন](https://raqueeb.gitbook.io/scikit-learn/dedication)
          1. [GitHp Full Book & Code](https://github.com/raqueeb/ml-python)
          
-         
- 
+# Most Importent Machine Learning Book and Github link:
+
+   1. [হাতেকলমে মেশিন লার্নিং -পরিচিত , প্রজেক্ট টাইটানিক আর এবং পাইথনসহ](https://rakibul-hassan.gitbook.io/mlbook-titanic/)
+         1. [GitHup Full Book](https://github.com/raqueeb/mlbook-titanic)
+         2. 
