@@ -73,7 +73,7 @@
          4. [GitHub Full Book Example](https://github.com/wangruinju/python-for-data-analysis)
          5. [GitHub Full Book Example](https://github.com/mahartariq/python-for-data-analysis-book)
 
-    8. ডেটাস্কুলের কেভিন মার্কহামের শুরুর দিকের ভিডিও টিউটোরিয়াল:  https://www.youtube.com/c/dataschool/playlists পাশাপাশি ডাক্সএর মেশিন লার্নিং এর অংক https://towardsdatascience.com/mathematics-for-machine-learning-linear-regression-least-square-regression-de09cf53757c  
+   8. ডেটাস্কুলের কেভিন মার্কহামের শুরুর দিকের ভিডিও টিউটোরিয়াল:  https://www.youtube.com/c/dataschool/playlists পাশাপাশি ডাক্সএর মেশিন লার্নিং এর অংক https://towardsdatascience.com/mathematics-for-machine-learning-linear-regression-least-square-regression-de09cf53757c  
 
-    9. [9-Predictive Analytics The Power to Predict Who Will Click, Buy, Lie, or Die by Eric Siegel.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7069100/9-Predictive.Analytics.The.Power.to.Predict.Who.Will.Click.Buy.Lie.or.Die.by.Eric.Siegel.pdf)- অসাধারণ একটা বই, পার্সপেক্টিভ পাবার জন্য। সময় থাকলে পুরো বই। 
+   9. [9-Predictive Analytics The Power to Predict Who Will Click, Buy, Lie, or Die by Eric Siegel.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7069100/9-Predictive.Analytics.The.Power.to.Predict.Who.Will.Click.Buy.Lie.or.Die.by.Eric.Siegel.pdf)- অসাধারণ একটা বই, পার্সপেক্টিভ পাবার জন্য। সময় থাকলে পুরো বই। 
 
