@@ -73,6 +73,6 @@
          4. [GitHub Full Book Example](https://github.com/wangruinju/python-for-data-analysis)
          5. [GitHub Full Book Example](https://github.com/mahartariq/python-for-data-analysis-book)
 
-5. [5- Python Machine Learning Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow by Sebastian Raschka, Vahid Mirjalili.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7068985/5-.Python.Machine.Learning.Machine.Learning.and.Deep.Learning.with.Python.scikit-learn.and.TensorFlow.by.Sebastian.Raschka.Vahid.Mirjalili.pdf)- চ্যাপ্টার ২, ট্রেনিং সিম্পল মেশিন লার্নিং এলগরিদম ফর ক্লাসিফিকেশন, চ্যাপ্টার ৩, এ ট্যুর অফ মেশিন লার্নিং ক্লাসিফায়ার ইউজিং সাইকিট লার্ন, চ্যাপ্টার ৩, বিল্ডিং গুড ট্রেনিং সেটস - ডেটা প্রি-প্রসেসিং 
+                     8. [5- Python Machine Learning Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow by Sebastian Raschka, Vahid Mirjalili.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7068985/5-.Python.Machine.Learning.Machine.Learning.and.Deep.Learning.with.Python.scikit-learn.and.TensorFlow.by.Sebastian.Raschka.Vahid.Mirjalili.pdf)- চ্যাপ্টার ২, ট্রেনিং সিম্পল মেশিন লার্নিং এলগরিদম ফর ক্লাসিফিকেশন, চ্যাপ্টার ৩, এ ট্যুর অফ মেশিন লার্নিং ক্লাসিফায়ার ইউজিং সাইকিট লার্ন, চ্যাপ্টার ৩, বিল্ডিং গুড ট্রেনিং সেটস - ডেটা প্রি-প্রসেসিং 
          1. [GitHub Full Book Example](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
          2. [GitHub Full Book Example](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
