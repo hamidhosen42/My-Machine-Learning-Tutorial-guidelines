@@ -25,7 +25,8 @@
             4. https://olegleyz.github.io/titanic_factors.html
             5. https://www.codeastar.com/data-wrangling/
             6. http://agconti.github.io/kaggle-titanic/
-            7. [My Code Link](https://github.com/hamidhosen42/Titanic-Machine-Learning-from-Disaster-Project)
+            7. [পাইথন দিয়ে টাইটানিক প্রজেক্ট](https://nbviewer.jupyter.org/github/raqueeb/mltraining/blob/master/Python/titanic-project-test.ipynb?fbclid=IwAR2r96Wm4_Aruk-lD-HZkWWMxstnsRnQVwV12vxIL3IEbL3uBzHMlzJXEvI)
+            8. [My Code Link](https://github.com/hamidhosen42/Titanic-Machine-Learning-from-Disaster-Project)
    2. [শূন্য থেকে পাইথন মেশিন লার্নিং : হাতেকলমে সাইকিট-লার্ন](https://raqueeb.gitbook.io/scikit-learn/dedication)
          1. [GitHub Full Book & Code](https://github.com/raqueeb/ml-python)
 # Most Importent Machine Learning Book and Github link:
