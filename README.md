@@ -77,7 +77,13 @@
 
    9. [9-Predictive Analytics The Power to Predict Who Will Click, Buy, Lie, or Die by Eric Siegel.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7069100/9-Predictive.Analytics.The.Power.to.Predict.Who.Will.Click.Buy.Lie.or.Die.by.Eric.Siegel.pdf)- অসাধারণ একটা বই, পার্সপেক্টিভ পাবার জন্য। সময় থাকলে পুরো বই। 
 
-   10. [10-The Hundred Page Machine Learning Book  by Andriy Burkov.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7078190/10-The.Hundred.Page.Machine.Learning.Book.by.Andriy.Burkov.pdf)
+   10. [10-The Hundred Page Machine Learning Book  by Andriy Burkov.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7078190/10-The.Hundred.Page.Machine.Learning.Book.by.Andriy.Burkov.pdf) Chapter 4: Anatomy of a Learning Algorithm,Chapter 5: Basic Practice,Chapter 7: Problems and Solutions
           1. [GitHub Full Book Example](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/blob/master/General-Machine-Learning/The%20Hundred-Page%20Machine%20Learning%20Book%20by%20Andriy%20Burkov/Links%20to%20read%20the%20chapters%20online.md)
           2. [GitHub Full Book Example](https://github.com/aburkov/theMLbook)
 
+   11. [11-TensorFlow For Deep Learning From Linear Regression to Peinfocement Learning by Bharath Tamsundar & Reza Bosagh Zadeh.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7078394/11-TensorFlow.For.Deep.Learning.From.Linear.Regression.to.Peinfocement.Learning.by.Bharath.Tamsundar.Reza.Bosagh.Zadeh.pdf)
+          1. [GitHub Full Book Example](https://github.com/matroid/dlwithtf)
+     
+   12. [12-Learning TensorFlow A Guide To Buildinf Deep Learning Systems Tom Hope.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7078395/12-Learning.TensorFlow.A.Guide.To.Buildinf.Deep.Learning.Systems.Tom.Hope.pdf)
+          1. [GitHub Full Book Example](https://github.com/giser-yugang/Learning_TensorFlow)
+          2. [GitHub Full Book Example](https://github.com/gigwegbe/Learning-TensorFlow)
