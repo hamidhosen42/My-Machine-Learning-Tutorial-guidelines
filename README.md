@@ -35,7 +35,7 @@
          
    2. [2.1-Data Science from Scratch First Principles with Python, by Joel Grus.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7068905/2.1-Data.Science.from.Scratch.First.Principles.with.Python.by.Joel.Grus.pdf)
       
-      [2.2-Data Science from Scratch First Principles with Python, by Joel Grus..pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7068911/2.2-Data.Science.from.Scratch.First.Principles.with.Python.by.Joel.Grus.pdf) - চ্যাপ্টার ১১, মেশিন লার্নিং, চ্যাপ্টার ১২, কে নিয়ারেস্ট নেইবার্স চ্যাপ্টার ১৪, সিম্পল লিনিয়ার রিগ্রেশন, চ্যাপ্টার ১৭, ডিসিশন ট্রিজ। 
+      [2.2-Data Science from Scratch First Principles with Python, by Joel Grus..pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7077973/2.2-Data.Science.from.Scratch.First.Principles.with.Python.by.Joel.Grus.pdf)- চ্যাপ্টার ১১, মেশিন লার্নিং, চ্যাপ্টার ১২, কে নিয়ারেস্ট নেইবার্স চ্যাপ্টার ১৪, সিম্পল লিনিয়ার রিগ্রেশন, চ্যাপ্টার ১৭, ডিসিশন ট্রিজ। 
          1. [GitHub Full Book Example](https://github.com/joelgrus/data-science-from-scratch)
          2. [GitHub Full Book Example](https://github.com/flavono123/data_science_from_scratch)
          3. [GitHub Full Book Example](https://github.com/cbare/data-science-from-scratch)
