@@ -77,3 +77,7 @@
 
    9. [9-Predictive Analytics The Power to Predict Who Will Click, Buy, Lie, or Die by Eric Siegel.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7069100/9-Predictive.Analytics.The.Power.to.Predict.Who.Will.Click.Buy.Lie.or.Die.by.Eric.Siegel.pdf)- অসাধারণ একটা বই, পার্সপেক্টিভ পাবার জন্য। সময় থাকলে পুরো বই। 
 
+   10. [10-The Hundred Page Machine Learning Book  by Andriy Burkov.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7078190/10-The.Hundred.Page.Machine.Learning.Book.by.Andriy.Burkov.pdf)
+          1. [GitHub Full Book Example](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/blob/master/General-Machine-Learning/The%20Hundred-Page%20Machine%20Learning%20Book%20by%20Andriy%20Burkov/Links%20to%20read%20the%20chapters%20online.md)
+          2. [GitHub Full Book Example](https://github.com/aburkov/theMLbook)
+
